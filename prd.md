@@ -6,8 +6,8 @@ author: AI 全流程实战落地工作坊教学组
 reviewers: [石小化培训项目负责人, 助教/评审团队]
 status: 待分组认领
 priority: P0
-created_at: 2026-08-10
-expected_release: 2026-08-10（培训当日，开题后 3 小时内完成现场演示）
+created_at: 2026-11-13
+expected_release: 2026-11-13（培训当日，开题后 3 小时内完成现场演示）
 related: [templates/spec.template.md, templates/plan.template.md, templates/tasks.template.md, templates/eval.template.md, templates/learnings.template.md]
 
 # 与附件示例一致：本文件只给「业务要建什么、为什么建、验收线在哪」，
