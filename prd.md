@@ -1,5 +1,5 @@
 ---
-prdId: PRD-2026-GXL-WORKSHOP-001
+prdId: PRD-2026-SXH-WORKSHOP-001
 type: prd
 title: 石小化企业级高可用智能客服 Agent
 author: AI 全流程实战落地工作坊教学组
@@ -46,7 +46,7 @@ related: [templates/spec.template.md, templates/plan.template.md, templates/task
         供下次需求开发复用。完整流程说明见本文件 §5。
 ────────────────────────────────────────────────────────────── -->
 
-# PRD-2026-GXL-WORKSHOP-001｜石小化企业级高可用智能客服 Agent
+# PRD-2026-SXH-WORKSHOP-001｜石小化企业级高可用智能客服 Agent
 
 > 提出：AI 全流程实战落地工作坊教学组　场景：石小化 AI 全流程实战落地工作坊　用时：约 3 小时分组实战
 
